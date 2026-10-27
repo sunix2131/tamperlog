@@ -1,0 +1,4 @@
+sha256: 200/200 lengths agree
+roots: 64/64 agree
+inclusion proofs: 2080/2080 agree
+consistency proofs: 2016/2016 agree

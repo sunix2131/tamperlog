@@ -1,0 +1,2 @@
+without prefixes:        root(4 entries)=f6cb0039aa1ef960  root(2 forged)=f6cb0039aa1ef960  SAME ROOT
+with 0x00/0x01 prefixes: root(4 entries)=3a15619288c69175  root(2 forged)=1895ed7f0181e56d  different

@@ -1,0 +1,8 @@
+attack,trials,consistency_rejected,own_record_lost_or_moved,false_accept
+none(control),1000,0,0,0
+rewrite,1000,1000,28,0
+delete,1000,1000,34,0
+reorder,1000,1000,0,0
+backdate_insert,1000,1000,0,0
+rollback,1000,1000,506,0
+fork,1000,1000,530,0
